@@ -6,8 +6,6 @@
 
 以FZU为例，在[福州大学邮件系统](https://mail.fzu.edu.cn/coremail/)网站以学号姓名等信息注册邮箱
 
-
-
 ## 二、注册Github账号&学生认证
 
 在Github官网[GitHub](https://github.com/)
@@ -42,15 +40,11 @@
 
 之后等待72h即可享受学生权益白嫖copliot pro了
 
-
-
 # 3、过程中2FA认证问题和代理问题
 
 ## 1、代理
 
 推荐用steam++（watt toolkit）完全免费，有钱可以上clash或者其他代理，比较稳定
-
-
 
 ## 2、2FA认证
 
